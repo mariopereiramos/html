@@ -1,0 +1,128 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: #0a1e3f; /* azul oscuro */
+    color: #f0f0f0;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header h1 {
+    font-size: 3rem;
+    color: #1e90ff; /* azul brillante */
+    margin-bottom: 10px;
+    text-shadow: 1px 1px 5px #000;
+}
+
+header p {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #b0c4de;
+}
+
+/* Navegación */
+nav ul.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+nav ul.nav-list li a {
+    text-decoration: none;
+    color: #b0c4de;
+    font-weight: 600;
+    font-size: 1.1rem;
+    padding: 8px 15px;
+    border-radius: 25px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+nav ul.nav-list li a:hover {
+    background-color: #1e90ff;
+    color: white;
+}
+
+nav ul.nav-list li a.active {
+    background-color: #1e90ff;
+    color: white;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    background: #142d5a;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 0 15px #1e90ffaa;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    border-bottom: 2px solid #1e90ff;
+    padding-bottom: 8px;
+    margin-bottom: 15px;
+    font-size: 2rem;
+    color: #aaddff;
+}
+
+p {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 0.9rem;
+    color: #7da7d9;
+}
+
+/* Botón con hover */
+.btn {
+    display: inline-block;
+    background: #1e90ff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background: #63b3ff;
+}
+
+a.link {
+    color: #63b3ff;
+    text-decoration: none;
+}
+
+a.link:hover {
+    text-decoration: underline;
+}
