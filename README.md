@@ -17,9 +17,10 @@ Top 10: Una lista que armé con los rivales más poderosos. Obviamente Noel Noa 
 
 Contacto: Por si quieres unirte al Discord para hablar del tema con otros fans.
 
-![28](28.png)
+![](Captura de pantalla de 2025-05-27 08-50-06.png)
 
 Los Rivals de Blue Lock
 Los "rivals" son esos jugadores que te hacen sudar frío solo de verlos en el campo. No son oponentes cualquiera - cada uno tiene algo especial que los hace únicos y peligrosos.
 En Blue Lock no basta con ser bueno, tienes que ser el mejor. Y para eso necesitas enfrentarte a gente que te haga evolucionar o te destruya en el intento.
 Cada rival tiene su propia "arma": Sae con su control absoluto, Rin con su análisis frío, Shidou con su caos creativo. Son los que hacen que el protagonismo se sienta ganado, no regalado.
+
