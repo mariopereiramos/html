@@ -23,7 +23,8 @@ Contacto: Por si quieres unirte al Discord para hablar del tema con otros fans.
 inicio
 
 Blue Lock Rivals es donde los mejores delanteros de Japón se enfrentan en un torneo sin piedad para convertirse en el goleador definitivo y salvar al fútbol japonés.
-No es solo un spin-off del manga - es la competencia más brutal donde solo sobrevive el más fuerte. Aquí cada jugador tiene su propia obsesión, su técnica letal y una mentalidad que roza la locura.
+
+No es solo un spin-off del manga es la competencia más brutal donde solo sobrevive el más fuerte. Aquí cada jugador tiene su propia obsesión, su técnica letal y una mentalidad que roza la locura.
 La pregunta no es si puedes ganar, sino si puedes mantener tu cordura mientras lo intentas.
 
 ![inicio](4.png)
